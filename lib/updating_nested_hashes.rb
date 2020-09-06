@@ -19,8 +19,8 @@ def update_status
          ]
       }
    }
-epic_tragedy[:montague][:hero][:status] = "dead"
-epic_tragedy[:capulet][:heroine][:status] = "dead"
+   epic_tragedy[:montague][:hero][:status] = "dead"
+   epic_tragedy[:capulet][:heroine][:status] = "dead"
   epic_tragedy
 end
 
@@ -53,7 +53,7 @@ def add_characters
    #   - The first hash should have the :name key set to "Prince Escalus"
    #   - The second hash should have the :name key set to "Apothecary"
    # Code your solution here:
-
+   
 
 
 
